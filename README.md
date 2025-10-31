@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sign1111
+- 👋 Hi, I’m Adam by name 
 - 👀 I’m interested in coding(web design)
-- 🌱 I’m currently learning html using visual studio 
+- 🌱 “I’m a Full-Stack Developer building custom web applications for businesses (Parcel Tracking, Farming Solutions, Admin Dashboards, Fitness Websites, etc.). If you need a modern, secure, and user-friendly website or app for your business, I’m available for projects. Kindly patronize me and let’s bring your idea to life!”
 - 💞️ I’m looking to collaborate on visual studio
 - 📫 How to reach me adamhammed12@gmail.com
 
